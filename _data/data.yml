@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yunxuan Xiao
-    tagline: Student in Computer Science
+    tagline: CS student in ACM Class, SJTU
     avatar: XYX.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,12 +43,11 @@ sidebar:
 Info:
     title: Updating.....
 
-career-profile:
-    title: Career Profile
+about-me:
+    title: About Me
     summary: |
-      To be done!!!!
-
-      Second paragraph if required.
+        I am a junior undergraduate student majoring in Computer Science at Shanghai Jiao Tong University. I am a member of ACM Honors Class, Zhiyuan College. ACM Honors Class is an elite CS program at SJTU for top 5% talented students.
+        I plan to apply for CS PhD programs that starts in Fall 2020.
 
 education:
     - degree: BSc in Computer Science
